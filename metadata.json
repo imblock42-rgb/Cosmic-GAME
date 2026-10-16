@@ -1,0 +1,6 @@
+{
+  "name": "Void Station: Beyond the Event Horizon",
+  "description": "2D deep space pixel-art strategy and RPG simulator. Manage a frontier void station, explore anomalous sectors, balance life support, craft high-tier modules, and converse with procedural NPCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
